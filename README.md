@@ -6,7 +6,9 @@ This list focuses on **end-to-end or policy-level reinforcement learning** appli
 
 ---
 - **QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation**
+  
   https://arxiv.org/abs/1806.10293
+  
 - **Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning**  
   https://arxiv.org/abs/2410.21845
 
