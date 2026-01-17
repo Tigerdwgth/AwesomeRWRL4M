@@ -30,6 +30,16 @@ This list focuses on **end-to-end or policy-level reinforcement learning** appli
 - **RLinf: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation**  
   https://arxiv.org/abs/2509.15965
 
+-- **SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**
+https://arxiv.org/abs/2509.09674
+
+
+--**SOP: Scaling General-Purpose Robots in the Real World**
+
+https://agibot.com/research/sop_en
+
+--**Real-world Reinforcement Learning from Suboptimal Interventions**
+https://arxiv.org/pdf/2512.24288
 ---
 
 Contributions welcome.
