@@ -12,7 +12,7 @@ This list focuses on **end-to-end or policy-level reinforcement learning** appli
 - **SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning**
   https://serl-robot.github.io/
   
-- **Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning**  
+- **Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning**
   https://arxiv.org/abs/2410.21845
   
 - **MENTOR: Mixture-of-Experts Network with Task-Oriented Perturbation for Visual Reinforcement Learning**
@@ -34,13 +34,13 @@ This list focuses on **end-to-end or policy-level reinforcement learning** appli
   https://arxiv.org/abs/2509.15965
 
 - **SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**
-https://arxiv.org/abs/2509.09674
+  https://arxiv.org/abs/2509.09674
 
 - **SOP: Scaling General-Purpose Robots in the Real World**
-https://agibot.com/research/sop_en
+  https://agibot.com/research/sop_en
 
 - **Real-world Reinforcement Learning from Suboptimal Interventions**
-https://arxiv.org/pdf/2512.24288
+  https://arxiv.org/pdf/2512.24288
 
 ---
 
