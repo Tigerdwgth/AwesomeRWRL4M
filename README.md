@@ -14,6 +14,9 @@ This list focuses on **end-to-end or policy-level reinforcement learning** appli
   
 - **Precise and Dexterous Robotic Manipulation via Human-in-the-Loop Reinforcement Learning**  
   https://arxiv.org/abs/2410.21845
+  
+- **MENTOR: Mixture-of-Experts Network with Task-Oriented Perturbation for Visual Reinforcement Learning**
+  https://arxiv.org/abs/2410.14972
 
 - **ConRFT: A Reinforced Fine-tuning Method for Vision-Language-Action Models via Consistency Policy**  
  [ https://arxiv.org/abs/2502.05440](https://arxiv.org/abs/2502.05450)
@@ -34,11 +37,11 @@ This list focuses on **end-to-end or policy-level reinforcement learning** appli
 https://arxiv.org/abs/2509.09674
 
 - **SOP: Scaling General-Purpose Robots in the Real World**
-
 https://agibot.com/research/sop_en
 
 - **Real-world Reinforcement Learning from Suboptimal Interventions**
 https://arxiv.org/pdf/2512.24288
+
 ---
 
 Contributions welcome.
