@@ -33,6 +33,9 @@ This list focuses on **end-to-end or policy-level reinforcement learning** appli
 - **RLinf: Flexible and Efficient Large-scale Reinforcement Learning via Macro-to-Micro Flow Transformation**  
   https://arxiv.org/abs/2509.15965
 
+- **RLinf-USER: A Unified and Extensible System for Real-World Online Policy Learning in Embodied AI**
+  https://arxiv.org/pdf/2602.07837
+
 - **SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning**
   https://arxiv.org/abs/2509.09674
 
@@ -41,6 +44,9 @@ This list focuses on **end-to-end or policy-level reinforcement learning** appli
 
 - **Real-world Reinforcement Learning from Suboptimal Interventions**
   https://arxiv.org/pdf/2512.24288
+
+- **TwinRL-VLA: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation**
+  https://arxiv.org/pdf/2511.05275
 
 ---
 
