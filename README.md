@@ -48,6 +48,9 @@ This list focuses on **end-to-end or policy-level reinforcement learning** appli
 - **TwinRL-VLA: Digital Twin-Driven Reinforcement Learning for Real-World Robotic Manipulation**
   https://arxiv.org/pdf/2511.05275
 
+- **RISE: Self-Improving Robot Policy with Compositional World Model（Kai0)**
+  https://opendrivelab.com/kai0-rl/
+
 ---
 
 Contributions welcome.
