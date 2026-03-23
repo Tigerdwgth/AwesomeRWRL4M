@@ -27,6 +27,9 @@ This list focuses on **end-to-end or policy-level reinforcement learning** appli
 - **π\*_0.6: A Vision-Language-Action Model that Learns from Experience**  
   https://arxiv.org/abs/2511.14759
 
+- **Precise Manipulation with Efficient Online RL**
+  https://www.pi.website/research/rlt
+
 - **GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation**  
   https://arxiv.org/abs/2512.01801
 
